@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1069063440111-jqh2pesdqs3jls3g3qmpaqb7edtqrv8t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1069063440111-jqh2pesdqs3jls3g3qmpaqb7edtqrv8t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1069063440111-7u7hgrq2rrkp9trsfo0v0t9bb2bblrro.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaXX3XziHmrcB8kxvfdup_rxvTitVM0ZE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1069063440111</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codelab.awesomedrawingquiz</string>
+	<key>PROJECT_ID</key>
+	<string>admob-codelab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>admob-codelab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1069063440111:ios:5949ca3f3f9de8f6827d1a</string>
+	<key>DATABASE_URL</key>
+	<string>https://admob-codelab.firebaseio.com</string>
+</dict>
+</plist>

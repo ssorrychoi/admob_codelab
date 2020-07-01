@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069063440111",
+    "firebase_url": "https://admob-codelab.firebaseio.com",
+    "project_id": "admob-codelab",
+    "storage_bucket": "admob-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069063440111:android:4b940ae45e12446c827d1a",
+        "android_client_info": {
+          "package_name": "com.codelab.awesomedrawingquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069063440111-7u7hgrq2rrkp9trsfo0v0t9bb2bblrro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codelab.awesomedrawingquiz",
+            "certificate_hash": "bb2d19cb0987825d0081624c8e59e09b0e49ac27"
+          }
+        },
+        {
+          "client_id": "1069063440111-c6q5erio6tgd2i0ie1mc61u43ua1kidn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpYwebe4jYxa8vO2wnE3KVBsGXDhM5JFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069063440111-c6q5erio6tgd2i0ie1mc61u43ua1kidn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
