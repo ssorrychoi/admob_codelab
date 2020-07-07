@@ -4,7 +4,9 @@ class AdManager {
 
   static String get appId {
     if (Platform.isAndroid) {
+      return "ca-app-pub-5844691994823832~4816631341";
     } else if (Platform.isIOS) {
+      return "ca-app-pub-5844691994823832~1510621787";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -12,7 +14,9 @@ class AdManager {
 
   static String get bannerAdUnitId {
     if (Platform.isAndroid) {
+      return "ca-app-pub-5844691994823832/6216153557";
     } else if (Platform.isIOS) {
+      return "ca-app-pub-5844691994823832/3945213438";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }

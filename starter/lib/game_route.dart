@@ -237,7 +237,7 @@ class _GameRouteState extends State<GameRoute> implements QuizEventListener {
   @override
   void dispose() {
     // TODO: Dispose BannerAd object
-    _bannerAd.dispose();
+    _bannerAd?.dispose();
 
 
     // TODO: Dispose InterstitialAd object
